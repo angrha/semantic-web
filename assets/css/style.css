@@ -1,0 +1,13 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-image: url('../img/chess.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  letter-spacing: 2px;
+}
+
+.navbar {
+  height: 60px;
+}
